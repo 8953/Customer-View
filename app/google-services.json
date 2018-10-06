@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "51214579171",
+    "firebase_url": "https://zonal-7d4fb.firebaseio.com",
+    "project_id": "zonal-7d4fb",
+    "storage_bucket": "zonal-7d4fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51214579171:android:bb9c5619b8ee8e06",
+        "android_client_info": {
+          "package_name": "com.example.ravijaiswal.zonal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51214579171-14m486np514lf0psmfv20ou862bo0c9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ravijaiswal.zonal",
+            "certificate_hash": "a6af6fd2e83ccaa22958f05ed340325d4aa785c7"
+          }
+        },
+        {
+          "client_id": "51214579171-k6lhrbjc31i8dunqp9d9uasp191s91m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRoutQFf-9nQY_l9gzVWixfXg8Iskne4w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51214579171-k6lhrbjc31i8dunqp9d9uasp191s91m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
